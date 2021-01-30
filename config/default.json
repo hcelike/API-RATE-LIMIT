@@ -1,0 +1,5 @@
+{
+	"API_LIMIT": 10,
+	"MONGODB_URI": "mongodb://localhost:27017/api_rate_limit",
+	"PORT": 5000
+}
